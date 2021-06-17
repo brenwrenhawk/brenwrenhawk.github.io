@@ -5,7 +5,7 @@ title: Welcome to my test blog!
 
 Hello, and welcome to my test blog!
 
-This is a test post to make sure that I and [Github Pages](pages.github.com) understand the code read from the Markdown file, [which can be found here](github.com/brenwrenhawk/brenwrenhawk.github.io/tree/main/_posts).
+This is a test post to make sure that I and [Github Pages](https://pages.github.com) understand the code read from the Markdown file, [which can be found here](https://github.com/brenwrenhawk/brenwrenhawk.github.io/tree/main/_posts).
 
 ---
 
