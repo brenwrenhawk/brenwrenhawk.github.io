@@ -3,9 +3,9 @@ layout: post
 title: Welcome to my test blog!
 ---
 
-Hello, and welcome to my test blog! 
+Hello, and welcome to my test blog!
 
-This is a test post to make sure that I and [Github Pages](https:/pages.github.com) understand the code read from the Markdown file, [which can be found here]().
+This is a test post to make sure that I and [Github Pages](https://pages.github.com) understand the code read from the Markdown file, [which can be found here](https://github.com/brenwrenhawk/brenwrenhawk.github.io/tree/main/_posts).
 
 ---
 
@@ -40,4 +40,3 @@ __Boldface-Alternative__
 ~~Strikethrough~~
 
 ![](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Github's Octocat")
-
