@@ -24,4 +24,4 @@ It's a little upsetting for students to use these websites to solicit answers on
 **How should the school go about to cease these operations?**
 I schools should lock down these sites. I also think we need to be clear with students that we need actual results to help guide our instruction. Cheating doesn't give us an accurate look at their progress.
 
-![](public/.images/Screenshot 2021-07-01 003813.png)
+![](public/images/Screenshot 2021-07-01 003813.png)
