@@ -24,4 +24,4 @@ It is difficult to hold a student accountable for their learning if we do not ha
 **How should the school go about to cease these operations?**
 I feel the best way for schools to go about to cease this operations is to have programs such as Respondus implemented.  Just like colleges have instilled for many years, clear disciplinary actions should be set in place for academic dishonestly. However, I do not have an answer for what the disciplinary actions should entail.
 
-![](public\.images\Screenshot 2021-07-01 003056.png)
+![](public/.images/Screenshot 2021-07-01 003056.png)
