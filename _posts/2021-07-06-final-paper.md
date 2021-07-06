@@ -7,6 +7,8 @@ This is my final paper for my News Writing class (COMM 2311) in it's entirety. I
 
 ***ALSO*** this will be the final blog post of this small project for my college class. **This blog is now depreciated and will no longer be updated!** _at least for now..._
 
+---
+
 **Teachers complaining of homework helpers used to cheat during remote learning**
 
 _By: Brenden Malacara – July 2nd, 2021_
